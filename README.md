@@ -24,7 +24,7 @@ The design contains **4 Screens** with basic navigation flow:
   - **Face:** Foundation, Concealer, Blush, Primer
   - **Tools:** Brushes, Blender, Lash Curler, etc.
 
-### 4️⃣ **Lips Product Sub-Menu**
+### 4️⃣ **Menu 2**
 - Detailed view for various lip products:
   - Matte Lipsticks
   - Glossy Lipsticks
@@ -35,7 +35,7 @@ The design contains **4 Screens** with basic navigation flow:
 
 ## 🔄 Navigation Flow:
 
-User starts with Login → Explore → Shop Menu → Product Sub-Categories
+User starts with Login → Explore → Main Menu (Shop) → Menu 2 (Product Sub-Categories)
 
 All key navigation paths are visually indicated with arrows in the design.
 
